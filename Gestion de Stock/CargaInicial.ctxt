@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CargaInicial
+comment1.params=inventario
+comment1.target=void\ cargarStockReal(Inventario)
+numComments=2

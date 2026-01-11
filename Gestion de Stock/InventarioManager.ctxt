@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=InventarioManager
+comment1.params=inv
+comment1.target=void\ setInventario(Inventario)
+comment2.params=
+comment2.target=Inventario\ getInventario()
+comment3.params=id
+comment3.target=Producto\ buscarProductoPorId(int)
+comment4.params=
+comment4.target=void\ crearCombosReales()
+comment5.params=nombre
+comment5.target=Producto\ buscarPorNombre(java.lang.String)
+numComments=6

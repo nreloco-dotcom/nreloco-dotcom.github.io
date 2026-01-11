@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Venta
+comment1.params=producto\ cantidad
+comment1.target=Venta(Producto,\ int)
+comment2.params=
+comment2.target=Producto\ getProducto()
+comment3.params=
+comment3.target=int\ getCantidad()
+comment4.params=
+comment4.target=java.util.Date\ getFecha()
+comment5.params=
+comment5.target=double\ getTotal()
+comment6.params=
+comment6.target=double\ getGanancia()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persistencia
+comment1.params=inventario\ sistema
+comment1.target=void\ guardarTodo(Inventario,\ SistemaGanancias)
+comment2.params=inventario
+comment2.target=void\ guardarProductos(Inventario)
+comment3.params=sistema
+comment3.target=void\ guardarVentas(SistemaGanancias)
+comment4.params=
+comment4.target=void\ guardarConfiguracion()
+comment5.params=inventario\ sistema
+comment5.target=void\ cargarTodo(Inventario,\ SistemaGanancias)
+comment6.params=inventario
+comment6.target=void\ cargarProductos(Inventario)
+comment7.params=sistema\ inventario
+comment7.target=void\ cargarVentas(SistemaGanancias,\ Inventario)
+comment8.params=
+comment8.target=void\ cargarConfiguracion()
+numComments=9

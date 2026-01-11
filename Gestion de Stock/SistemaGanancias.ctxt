@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=SistemaGanancias
+comment1.params=inversionInicial
+comment1.target=SistemaGanancias(double)
+comment10.params=
+comment10.target=void\ mostrarTopProductos()
+comment11.params=
+comment11.target=java.util.List\ getVentas()
+comment2.params=
+comment2.target=double\ getInversionInicial()
+comment3.params=venta
+comment3.target=void\ registrarVenta(Venta)
+comment4.params=
+comment4.target=double\ getTotalVentas()
+comment5.params=
+comment5.target=double\ getGananciaTotal()
+comment6.params=
+comment6.target=double\ getGananciaHoy()
+comment7.params=
+comment7.target=double\ getBalanceReal()
+comment8.params=
+comment8.target=int\ getTotalVentasHoy()
+comment9.params=
+comment9.target=void\ mostrarResumenCompleto()
+numComments=12
